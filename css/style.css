@@ -1443,6 +1443,12 @@ ol {
 .blog__details__title .blog__details__social a.twitter {
 	background: #39a1f2;
 }
+.blog__details__title .blog__details__social a.tiktok {
+	background: #00060b;
+}
+.blog__details__title .blog__details__social a.youtube {
+	background: #fc040c;
+}
 
 .blog__details__title .blog__details__social a i {
 	margin-right: 6px;
